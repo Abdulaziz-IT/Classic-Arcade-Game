@@ -15,10 +15,6 @@ This game is pretty **easy to play**, all you have to do is to reach the water w
 - Once a the player collides with an enemy, the game is reset and the player moves back to the starting square
 - Once the player reaches the water (i.e., the top of the game board), the game is won
 
-Keep it mind that if the time is up and you didn't find all cards, you will _lose_ :disappointed:
-
-If you feel like giving up, you can always click on the restart button which will reset the game for you, and shuffle the cards again!
-
 ## Can I play now?!
 
 You surely can!
