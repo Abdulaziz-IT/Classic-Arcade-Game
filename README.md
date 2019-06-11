@@ -1,4 +1,4 @@
-# Memory Game Project 2: Abdulaziz Waleed Alshememry (FEND)
+# Classic Arcade Game Project 3: Abdulaziz Waleed Alshememry (FEND)
 
 ## Table of Contents
 
