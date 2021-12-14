@@ -18,4 +18,4 @@ This game is pretty **easy to play**, all you have to do is to reach the water w
 ## Can I play now?!
 
 You surely can!
-Go ahead and click [HERE](https://abdulaziz-it.github.io/Classic-Arcade-Game-FEND-Project3/)!
+Go ahead and click [HERE](https://abdulaziz-it.github.io/Classic-Arcade-Game/)!
